@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/adp_assignment-main/adp3_GitAssignment.iml" filepath="$PROJECT_DIR$/adp_assignment-main/adp3_GitAssignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/adp_assignment-main.iml" filepath="$PROJECT_DIR$/.idea/adp_assignment-main.iml" />
+    </modules>
+  </component>
+</project>
