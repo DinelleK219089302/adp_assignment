@@ -1,9 +1,10 @@
 package za.ac.cput.adp3_GitAssignment;
 
 /**
- *
- * small multiplication program
- *
+ * 1 April 2021
+ * Small Multiplication Program
+ * @author Dinelle Kotzé
+ * 219089302
  * **/
 
 
